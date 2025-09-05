@@ -1,0 +1,5 @@
+{
+  "name": "Magic Meme Maker",
+  "description": "Upload an image, add your text, and instantly generate a Disney-style meme. This tool uses AI to transform your ideas into enchanted, classic animation-style images that you can easily copy and share.",
+  "requestFramePermissions": []
+}
